@@ -1,0 +1,171 @@
+
+#Ab{
+	width: 450px;
+	background: url(../../images/Hung1.JPG);
+	background-size:cover;
+	height: 500px;
+	font-family: 'Eczar', serif;
+}
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+
+#aboutH{
+	font-size: 45px;
+	margin-left: 50px;
+	margin-top: 80px;
+	width: 450px;
+	margin-bottom: 10px;
+
+}
+.growth{
+	margin-left: 70px;
+	font-size:25px;
+	padding-bottom: 1px;
+	margin-bottom: 0;
+	color: black;
+	width: 450px;
+}
+#nav1{
+	font-weight: 600;
+	display: inline-block;
+	border: 1px solid black;
+	margin-left: 60px;
+	padding: 5px 10px;
+	border-radius: 7px;
+
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+#nav2{
+	font-weight: 600;
+	display: inline-block;
+	border: 1px solid black;
+	margin-left: 60px;
+	padding: 5px 10px;
+	border-radius: 7px;
+	}
+#selfDescript{
+	border: 1px solid black;
+	border-radius: 7px;
+	padding: 5px 10px;
+	margin-top: 1px;
+	font-size: 18px;
+	font-style: italic;
+	margin-left: 30px;
+	color: black;
+	width: 450px;
+}
+#face{
+  height: 50px;
+  width: 60px;
+}
+#linked{
+  height: 40px;
+  width: 35px;
+  padding-bottom: 5px;
+  margin-left: 20px
+}
+#tweet{
+  height: 50px;
+  width: 50px;
+  margin-left: 120px;
+  margin-right: 20px;
+
+}
+/**  portfolio css  **/
+
+#portMain{
+	background: url(../../images/portfolio2.jpg) no-repeat center;
+	height: 800px;
+	width:100%;
+	background-size:cover;
+	font-family: 'Eczar', serif;ß
+	margin: 0;
+}
+#pHead{
+	text-align: center;
+}
+#portId{
+	text-align:center;
+	width:100%;
+}
+
+#Experience{
+	margin: 0 auto;
+	padding: 5px 70px 5px 70px;
+	width:90%;
+
+}
+
+#job{
+	background-color: #5d5c61;
+	width: 100%;
+	color:white;
+	margin: 0 auto;
+	padding: 10px 70px 10px 70px;
+}
+
+#nav3{
+	font-weight: 600;
+	display: inline-block;
+	border: 1px solid black;
+	padding: 5px 10px;
+	border-radius: 7px;
+}
+#nav4{
+	font-weight: 600;
+	display: inline-block;
+	border: 1px solid black;
+	margin-left: 10px;
+	padding: 5px 10px;
+	margin-right: 30px;
+	border-radius: 7px;
+	}
+#relaxrD{
+	text-align: left;
+	width:80%;
+}
+#matchD{
+	text-align: right;
+	width:90%;
+}
+#citiD{
+	width: 80%;
+}
+#relaxPic{
+	float:left;
+	width:400px;
+	height:100%;
+	margin-right: 30px;
+}
+#matchPic{
+	float:right;
+	left: 100px;
+	width:400px;
+	height:100%;
+	margin-left: 30px;
+}
+#citiPic{
+	float:left;
+	width:400px;
+	height:100%;
+	margin-right: 30px;
+}
+#socialP{
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	width: 90%;
+}
+.sectionH{
+	font-size: 30px;
+}
