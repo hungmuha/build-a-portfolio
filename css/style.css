@@ -1,7 +1,7 @@
 
 #Ab{
 	width: 450px;
-	background: url(../../images/Hung1.JPG);
+	background: url(../images/Hung1.JPG);
 	background-size:cover;
 	height: 500px;
 	font-family: 'Eczar', serif;
@@ -84,7 +84,7 @@ a{
 /**  portfolio css  **/
 
 #portMain{
-	background: url(../../images/portfolio2.jpg) no-repeat center;
+	background: url(../images/portfolio2.jpg) no-repeat center;
 	height: 800px;
 	width:100%;
 	background-size:cover;
